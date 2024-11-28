@@ -51,6 +51,7 @@
 
 В процессе выполнения лабораторной работы были использованы следующие команды:
 
+```
 git config --global user.name
 git config --global user.email
 git clone
@@ -64,6 +65,7 @@ git commit -m ""
 git push origin --delete
 git branch
 git reset
+```
 
 15. Получить историю операций в форматированном виде (сокращённый
 хэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать
